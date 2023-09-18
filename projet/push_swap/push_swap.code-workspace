@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "push_swap",
+			"path": "."
+		},
+		{
+			"name": "push_swap_visualizer-master",
+			"path": "../../../Downloads/push_swap_visualizer-master"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"push_swap.h": "c"
+		}
+	}
+}
